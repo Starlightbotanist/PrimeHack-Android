@@ -75,7 +75,7 @@ android {
                 signingConfig = signingConfigs.getByName("release")
             }
 
-            resValue("string", "app_name_suffixed", "Dolphin Emulator")
+            resValue("string", "app_name_suffixed", "Prime Hack")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(
