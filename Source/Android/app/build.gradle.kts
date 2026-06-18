@@ -42,7 +42,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "org.dolphinemu.dolphinemu"
+        applicationId = "org.dolphinemu.primehack"
         minSdk = 21
         targetSdk = 36
 
