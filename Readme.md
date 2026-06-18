@@ -1,3 +1,10 @@
+# Fork Changes
+This fork exists solely to provide android APKs of primehack with the source code included. Many primehack APKs I have seen floating around don't include the source code and I wanted to remedy this.
+
+The only change is to the android package name so that it doesn't conflict with the vanilla android build of dolphin. 
+
+Please DO NOT bother the PrimeHack devs with any issues found in this build. They did not build it, and will not support it. Please don't expect them to. Thank you.
+
 # PrimeHack
 
 [Discord](https://discord.gg/Gc2HcPH)
